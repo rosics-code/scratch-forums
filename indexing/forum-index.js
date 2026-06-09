@@ -1,4 +1,4 @@
-// Credits to Jeffalo for most of this
+/* Credits to Jeffalo for most of this (from 1-61). Rest is Rosics */
 export default new Map(
   [
         ["1", "Suggestions"],
