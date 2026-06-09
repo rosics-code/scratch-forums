@@ -1,4 +1,4 @@
-// Credits to @Jeffalo for most of this
+// Credits to Jeffalo for most of this
 export default new Map(
   [
         ["1", "Suggestions"],
