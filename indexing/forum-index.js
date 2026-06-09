@@ -64,7 +64,9 @@ export default new Map(
         ["61", "April Fools Day - Suggest-Show-Question-Bugs-Help-Glitch-Tell-Etc"],
         ["62", "हिन्दी (Hindi)"],
         ["63", "Mentors: General Discussion"],
-        ["64-65", "Youth Advisory Board"],
-        ["66-67", "Scratch Mentor Program"],
+        ["64", "YAB: General Discussion"],
+        ["65", "YAB: Volunteer Opportunities"],
+        ["66", "Mentors: Scratch Design Studio"],
+        ["67", "Mentors: Special Events"],
     ]
   );
